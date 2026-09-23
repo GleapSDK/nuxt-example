@@ -1,4 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Gleap Nuxt 3 Example
+
+Nuxt 3 example integrating the Gleap JavaScript SDK for in-app customer support, live chat and feedback.
+
+[Integration documentation](https://docs.gleap.ai/documentation/javascript/README) · [Gleap](https://www.gleap.ai)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
